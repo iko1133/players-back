@@ -1,0 +1,254 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "name": "Lionel Messi",
+      "role": "Center-forward"
+    },
+    {
+      "id": 2,
+      "name": "Cristiano Ronaldo",
+      "role": "Winger-right"
+    },
+    {
+      "id": 3,
+      "name": "Neymar Jr",
+      "role": "Winger-left"
+    },
+    {
+      "id": 4,
+      "name": "Kevin De Bruyne",
+      "role": "Midfielder"
+    },
+    {
+      "id": 5,
+      "name": "Virgil van Dijk",
+      "role": "Center-back"
+    },
+    {
+      "id": 6,
+      "name": "Manuel Neuer",
+      "role": "Goalkeeper"
+    },
+    {
+      "id": 7,
+      "name": "Sergio Ramos",
+      "role": "Center-back"
+    },
+    {
+      "id": 8,
+      "name": "Trent Alexander-Arnold",
+      "role": "Right-back"
+    },
+    {
+      "id": 9,
+      "name": "Andrew Robertson",
+      "role": "Left-back"
+    },
+    {
+      "id": 10,
+      "name": "Luka Modric",
+      "role": "Midfielder"
+    },
+    {
+      "id": 11,
+      "name": "Robert Lewandowski",
+      "role": "Center-forward"
+    },
+    {
+      "id": 12,
+      "name": "Kylian Mbappe",
+      "role": "Winger-right"
+    },
+    {
+      "id": 13,
+      "name": "Eden Hazard",
+      "role": "Winger-left"
+    },
+    {
+      "id": 14,
+      "name": "Paul Pogba",
+      "role": "Midfielder"
+    },
+    {
+      "id": 15,
+      "name": "Gerard Pique",
+      "role": "Center-back"
+    },
+    {
+      "id": 16,
+      "name": "Jan Oblak",
+      "role": "Goalkeeper"
+    },
+    {
+      "id": 17,
+      "name": "Thiago Silva",
+      "role": "Center-back"
+    },
+    {
+      "id": 18,
+      "name": "Dani Carvajal",
+      "role": "Right-back"
+    },
+    {
+      "id": 19,
+      "name": "Jordi Alba",
+      "role": "Left-back"
+    },
+    {
+      "id": 20,
+      "name": "Toni Kroos",
+      "role": "Midfielder"
+    },
+    {
+      "id": 21,
+      "name": "Harry Kane",
+      "role": "Center-forward"
+    },
+    {
+      "id": 22,
+      "name": "Raheem Sterling",
+      "role": "Winger-right"
+    },
+    {
+      "id": 23,
+      "name": "Sadio Mane",
+      "role": "Winger-left"
+    },
+    {
+      "id": 24,
+      "name": "N'Golo Kante",
+      "role": "Midfielder"
+    },
+    {
+      "id": 25,
+      "name": "Kalidou Koulibaly",
+      "role": "Center-back"
+    },
+    {
+      "id": 26,
+      "name": "Alisson Becker",
+      "role": "Goalkeeper"
+    },
+    {
+      "id": 27,
+      "name": "Leonardo Bonucci",
+      "role": "Center-back"
+    },
+    {
+      "id": 28,
+      "name": "Joshua Kimmich",
+      "role": "Right-back"
+    },
+    {
+      "id": 29,
+      "name": "Benjamin Mendy",
+      "role": "Left-back"
+    },
+    {
+      "id": 30,
+      "name": "Sergio Busquets",
+      "role": "Midfielder"
+    },
+    {
+      "id": 31,
+      "name": "Romelu Lukaku",
+      "role": "Center-forward"
+    },
+    {
+      "id": 32,
+      "name": "Jadon Sancho",
+      "role": "Winger-right"
+    },
+    {
+      "id": 33,
+      "name": "Son Heung-min",
+      "role": "Winger-left"
+    },
+    {
+      "id": 34,
+      "name": "Bruno Fernandes",
+      "role": "Midfielder"
+    },
+    {
+      "id": 35,
+      "name": "Raphael Varane",
+      "role": "Center-back"
+    },
+    {
+      "id": 36,
+      "name": "Ederson Moraes",
+      "role": "Goalkeeper"
+    },
+    {
+      "id": 37,
+      "name": "Mats Hummels",
+      "role": "Center-back"
+    },
+    {
+      "id": 38,
+      "name": "Kyle Walker",
+      "role": "Right-back"
+    },
+    {
+      "id": 39,
+      "name": "Alex Sandro",
+      "role": "Left-back"
+    },
+    {
+      "id": 40,
+      "name": "Marco Verratti",
+      "role": "Midfielder"
+    },
+    {
+      "id": 41,
+      "name": "Karim Benzema",
+      "role": "Center-forward"
+    },
+    {
+      "id": 42,
+      "name": "Riyad Mahrez",
+      "role": "Winger-right"
+    },
+    {
+      "id": 43,
+      "name": "Leroy Sane",
+      "role": "Winger-left"
+    },
+    {
+      "id": 44,
+      "name": "Jordan Henderson",
+      "role": "Midfielder"
+    },
+    {
+      "id": 45,
+      "name": "Giorgio Chiellini",
+      "role": "Center-back"
+    },
+    {
+      "id": 46,
+      "name": "Marc-Andre ter Stegen",
+      "role": "Goalkeeper"
+    },
+    {
+      "id": 47,
+      "name": "Aymeric Laporte",
+      "role": "Center-back"
+    },
+    {
+      "id": 48,
+      "name": "Joao Cancelo",
+      "role": "Right-back"
+    },
+    {
+      "id": 49,
+      "name": "David Alaba",
+      "role": "Left-back"
+    },
+    {
+      "id": 50,
+      "name": "Frenkie de Jong",
+      "role": "Midfielder"
+    }
+  ]
+}
